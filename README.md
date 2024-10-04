@@ -1,16 +1,47 @@
-## Hi there 👋
+# ✨ Hello World
 
-<!--
-**nossabova/nossabova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+ ┌───────────────────────────────────────────────┐
+ │                                               │
+ │   Software Engineer | Creative Technologist   │
+ │                                               │
+ └───────────────────────────────────────────────┘
+```
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate developer who believes in the power of technology to create positive change. My work combines technical expertise with creative problem-solving to build innovative solutions.
+
+### 🌸 My Focus Areas
+
+- Front-end Development
+- User Experience Design
+- Data Visualization
+- Open Source Contribution
+
+## 🛠️ Tech Stack
+
+```
+JavaScript | React | Node.js | Python
+CSS/SASS | GraphQL | PostgreSQL | Git
+```
+
+## 🎨 Featured Projects
+
+1. **Project Bloom** - An eco-friendly e-commerce platform
+2. **DataViz Dashboard** - Interactive data visualization tool
+3. **Mindful Coding** - A wellness app for developers
+
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=buefy)
+
+## 🌟 Let's Connect
+
+```
+🐦 X: @nossabova
+```
+
+---
+
+*"The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt*
