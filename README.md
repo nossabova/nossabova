@@ -26,15 +26,9 @@ JavaScript | React | Node.js | Python
 CSS/SASS | GraphQL | PostgreSQL | Git
 ```
 
-## 🎨 Featured Projects
-
-1. **Project Bloom** - An eco-friendly e-commerce platform
-2. **DataViz Dashboard** - Interactive data visualization tool
-3. **Mindful Coding** - A wellness app for developers
-
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=buefy)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nossabova&show_icons=true&theme=buefy)
 
 ## 🌟 Let's Connect
 
